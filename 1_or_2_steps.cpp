@@ -13,7 +13,6 @@
 // Date Revised: 10/7/2026
 
 #include <iostream>
-#include <vector>
 
 int main() {
     int count = 0;
